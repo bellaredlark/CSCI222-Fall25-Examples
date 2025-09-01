@@ -13,5 +13,5 @@
  using namespace std;
 
  int main() {
-    cout << "Hello, github" << endl;
+    cout << "Hello, world" << endl;
  }
