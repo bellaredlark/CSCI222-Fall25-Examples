@@ -1,7 +1,7 @@
 /**
  * @file hello.cpp
- * @author Bella Redlark (bredlark@ut.utm.edu)
- * @brief Hello Github!
+ * @author Bella Redlark <bredlark@ut.utm.edu>
+ * @brief Hello, Github!
  * @version 0.1
  * @date 2025-09-01
  * 
@@ -9,9 +9,10 @@
  * 
  */
 
- #include <iostream>
- using namespace std;
+#include <iostream>
+using namespace std;
 
- int main() {
-    cout << "Hello, Github" << endl;
- }
+int main() 
+{
+    cout << "Hello world" << endl;
+}
